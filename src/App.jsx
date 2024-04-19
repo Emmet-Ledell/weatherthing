@@ -4,7 +4,7 @@ import { useContext } from "react";
 import WeatherContext from "./WeatherContext";
 
 const api = {
-  key: "23DJXFSGNCZBVGT2WEBEQZLXF",
+  key: ""
   base: "https://weather.visualcrossing.com/VisualCrossingWebServices/rest/services/timeline/",
 };
 
